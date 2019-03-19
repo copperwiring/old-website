@@ -1,7 +1,8 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: Srishti Yadav
+#description: Personal Blog
+avatar: /images/self.jpeg
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://scotte.github.io/jekyll-clean
@@ -35,6 +36,6 @@ paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']

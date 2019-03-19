@@ -49,3 +49,12 @@ body {
 .author a {
     color: #ee4444;
 }
+
+img.rounded {
+  object-fit: cover;
+  padding: 5px;
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+}
+
