@@ -1,7 +1,8 @@
 # Jekyll configuration
 
-name: My blog
-description: A jekyll theme
+name: Srishti Yadav
+#description: Personal Blog
+avatar: /images/self.jpeg
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://scotte.github.io/jekyll-clean
@@ -12,8 +13,9 @@ url: https://scotte.github.io/jekyll-clean
 #     run it like so: jekyll serve --baseurl=''
 baseurl: /jekyll-clean
 
-# This can be '' to hide the Github nav button
+# These can be '' to hide the Github or Gitlab nav buttons
 github: 'scotte/jekyll-clean'
+gitlab: ''
 
 # Set this to your UA-# value, or '' to disable the block completely
 gaaccount: ''
@@ -34,6 +36,6 @@ paginate: 3
 
 highlighter: rouge
 markdown: kramdown
-gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE']
