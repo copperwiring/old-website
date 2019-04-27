@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "What not to do"
-date: 2014-07-22 16:25:06 -0700
+date: 2019-04-24 16:25:06 -0700
 comments: true
+tags: technical
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quam metus, commodo sit amet ante a, finibus efficitur lorem. Maecenas egestas purus in tempor volutpat. Sed dapibus tortor nec sem suscipit ullamcorper. Nulla nec lorem lacus. Phasellus condimentum massa quis dolor consequat viverra ut ac magna. Ut a consequat nisi. Vivamus at leo ut turpis convallis lacinia. Curabitur eu placerat quam. Donec ultricies faucibus dui, a tincidunt lorem lobortis condimentum.

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "First Blog Post"
-date: 2019-03-18 18:0:06 
+date: 2019-03-18 18:0:06 -0700
 comments: false
+tags: politics
 ---
 
 * Get it from [github](https://github.com/scotte/jekyll-clean).
