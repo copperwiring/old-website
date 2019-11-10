@@ -31,6 +31,12 @@ print(c)
 print("Vectorized version:" + str(1000*(toc-tic)) + "ms")
 ```
 
+Output:
+```
+25032.80826579146
+Vectorized version:5.956172943115234ms
+```
+
 # Non-Vectorized Method:
 
 ```
@@ -47,5 +53,8 @@ toc = time.time()
 print(c)
 print("Vectorized version:" + str(1000*(toc-tic)) + "ms")
 ```
-
-
+Output:
+```
+25032.808265791115
+Vectorized version:91.36772155761719ms
+```
