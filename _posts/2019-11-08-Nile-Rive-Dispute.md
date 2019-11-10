@@ -6,7 +6,7 @@ comments: true
 tags: politics
 ---
 
-It all started with one news article [here](https://abcnews.go.com/amp/International/wireStory/egypts-top-diplomat-nile-dispute-resolved-january-66820588) and I went down a rabbit hole as to what is this Nile dispute all about. Political news, crisis reports, few wikipedia sources and I landed up [this](https://en.wikipedia.org/wiki/Abiy_Ahmed) page. Now, wait. This gets interesting. I have seen this guy before on Twitter and that too very recently. I was right! It's right in the second paragraph of the page. He was the Nobel Peace Prize receipiet for 2019. And I now I wanted to read all about it. 
+It all started with one news article [here](https://abcnews.go.com/amp/International/wireStory/egypts-top-diplomat-nile-dispute-resolved-january-66820588) and I went down a rabbit hole as to what is this Nile dispute all about. Political news, crisis reports, few wikipedia sources and I landed up [this](https://en.wikipedia.org/wiki/Abiy_Ahmed) page. Now, wait. This gets interesting. I have seen this guy before on Twitter and that too very recently. I was right! It's right in the second paragraph of the page. He was the Nobel Peace Prize recipient for 2019. And I now I wanted to read all about it. 
 
 Sometimes it takes one small interest or familar news which can pique your interest.
 
