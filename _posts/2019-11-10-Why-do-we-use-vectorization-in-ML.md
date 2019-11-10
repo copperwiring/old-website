@@ -10,7 +10,7 @@ When we do machine learning, a lot of time, we use vectors to perform any comput
 
 We will write a small code to take the dot problem of two numbers. For the vectorized method, we'll use numpy library and for non-vectorized method, we'll use the traditional for loop.
 
-## Vectorized Method:
+# Vectorized Method:
 
 ```
 import numpy as np
@@ -29,10 +29,9 @@ toc = time.time()
 
 print(c)
 print("Vectorized version:" + str(1000*(toc-tic)) + "ms")
-
 ```
 
-## Non-Vectorized Method:
+# Non-Vectorized Method:
 
 ```
 ## Non-Vectorized Version
@@ -47,7 +46,6 @@ toc = time.time()
 
 print(c)
 print("Vectorized version:" + str(1000*(toc-tic)) + "ms")
-
 ```
 
 
