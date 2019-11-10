@@ -28,13 +28,13 @@ c = np.dot(a,b)
 toc = time.time()
 
 print(c)
-print("Vectorized version:" + str(1000*(toc-tic)) + "ms")
+print("Vectorized version:" + str(1000*(toc-tic)) + " ms")
 ```
 
 Output:
 ```
 25032.80826579146
-Vectorized version:5.956172943115234ms
+Vectorized version:5.956172943115234 ms
 ```
 
 # Non-Vectorized Method:
@@ -51,10 +51,11 @@ for i in range(100000):
 toc = time.time()
 
 print(c)
-print("Vectorized version:" + str(1000*(toc-tic)) + "ms")
+print("Vectorized version:" + str(1000*(toc-tic)) + " ms")
 ```
 Output:
 ```
 25032.808265791115
-Vectorized version:91.36772155761719ms
+Vectorized version:91.36772155761719 ms
 ```
+From the outputs, we can see that the for loop takes 20x time than the vectorized method. This difference can be significant if we have large amounts of data where vectorization can save us a lot of computation time. Hence, the need of vectorization!
