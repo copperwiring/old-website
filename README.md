@@ -1,2 +1,2 @@
-Source Code for the personal website of Srishti Yadav.
+Source Code for the old personal website of Srishti Yadav.
 
